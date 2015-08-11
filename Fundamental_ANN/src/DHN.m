@@ -21,4 +21,5 @@ w = [ 0  ,1  ,1 ,-1;
      jsize = size(xi(:,i),1);
      r = randi([1 jsize],1);
      
+     
  end
